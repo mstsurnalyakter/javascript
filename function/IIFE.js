@@ -1,10 +1,8 @@
 /**
  * IIFEs --> Immediately Invokeable Function Expression
  */
-
 (function sum(num1, num2){
     console.log(`Sum: ${num1 + num2}`);
-
 })(7,9)
 
 /**
