@@ -1,7 +1,7 @@
 const names = ['Ashraful','Sakib', 'Mushfiq','Mahmudullah','Mashrafee'];
 
 for (let i = 0; i < names.length; i++) {
-    // console.log(`${i}: ${names[i]}`);
+    console.log(`${i}: ${names[i]}`);
 
 }
 
