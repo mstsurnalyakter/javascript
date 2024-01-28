@@ -1,21 +1,21 @@
 const names = ['Mst Surnaly Akter','Yellow' ,'Tisha', 'Tama', 'Tima', 'Alex']
-// console.log(names);
+console.log(names);
 
-// shift() and unshift()
-// names.shift()
-// console.log(names);
-// names.unshift('Mst Surnaly Akter');
-// console.log(names);
+shift() and unshift()
+names.shift()
+console.log(names);
+names.unshift('Mst Surnaly Akter');
+console.log(names);
 
 // splice() --> we can add , remove any items any position
-// names.splice(0,0,'Salma Begum', 'Nur Hossen');
-// console.log(names);
+names.splice(0,0,'Salma Begum', 'Nur Hossen');
+console.log(names);
 
 //slice() -->slice() method slice the elements of an array and return a new array using slicing elements but can't change the existing array
 
-// const n1 = names.slice(1);
-// console.log(n1);
-// console.log(names);
+const n1 = names.slice(1);
+console.log(n1);
+console.log(names);
 
 // sort() --> sort() method sort the element of an array and return a new array using sorting elements but can change the existing array
 
