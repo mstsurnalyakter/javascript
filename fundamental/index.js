@@ -8,9 +8,14 @@ let season = 'winter';
 
 /**
  * 6 basic condition <,> === , >=,
- * && 
+ * &&
  */
 
-if (condition) {
 
-}
+// number to string
+const num1 = 40;
+const stringNum = 40 + '';
+
+// string to number
+const num2 = '40';
+const stringToNum = +num2;
